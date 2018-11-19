@@ -5,7 +5,7 @@ We have generalized the tags and perfomed our training and testing. This project
 The Process can be given following. 
 
 a) Data/basic_dataset.txt : Its our given training sentences where each word is tagged.</br>
-b) Data/basic_dataset2.txt : Its our modified version of input data where START\* is added with each sentences. This is done by Data/base_dataset_modifier.py.</br>
+b) Data/basic_dataset2.txt : Its our modified version of input data where START\\* is added with each sentences. This is done by Data/base_dataset_modifier.py.</br>
 First keep your dataset named basic_dataset.txt in Data folder and then run base_dataset_modifier.py.</br></br>
 
 Now at first we have to run the data_preprocess.py. It will generate some special files to work with.</br>
