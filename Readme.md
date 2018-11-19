@@ -19,6 +19,8 @@ using uni gram probability. But you can set weight here to tri gram probability 
 
 
 Contributors of this project are,
-a) Shahriar Sajib
-b) Redwan Ahmed Rizvee
-c) Muntasir Wahed. 
+a) Shahriar Sajib</br>
+b) Redwan Ahmed Rizvee</br>
+c) Muntasir Wahed.</br>
+
+This work was done under supervision of Dr. Mohammad Shoyaib and Dr. Muhammad Asif Hossain Khan.
