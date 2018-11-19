@@ -18,4 +18,7 @@ Now the training and testing section. Our implementation uses a gui to take inpu
 using uni gram probability. But you can set weight here to tri gram probability and bi gram probability if you want and bring modification in q function. For any kind of help mail me at rarndc@gmail.com. 
 
 
-
+Contributors of this project are,
+a) Shahriar Sajib
+b) Redwan Ahmed Rizvee
+c) Muntasir Wahed. 
